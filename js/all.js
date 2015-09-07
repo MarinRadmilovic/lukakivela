@@ -32,7 +32,6 @@
         $(window).trigger("resize");
             
         init_classic_menu();
-        init_lightbox();
         init_parallax();
         init_shortcodes();
         init_tooltips();
