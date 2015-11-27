@@ -620,7 +620,7 @@ function initPageSliders(){
         sync2.owlCarousel({
             autoPlay: 5000,
             stopOnHover: true,
-            items: 5,
+            items: 8,
             itemsDesktop: [1199,8],
             itemsDesktopSmall: [979,7],
             itemsTablet: [768,6],
