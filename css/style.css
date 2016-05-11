@@ -170,6 +170,10 @@ html, body{
 	-webkit-font-smoothing: antialiased;
   overflow:hidden;
 }
+
+html#about, html#about body{
+  overflow: visible;
+}
 .page{
 	overflow: hidden;
 }

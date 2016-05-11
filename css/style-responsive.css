@@ -726,3 +726,26 @@ Primary use:    MultiPurpose Template
  
 	
 }
+
+
+@media only screen and (min-device-width: 480px) and (max-device-width: 731px) and (orientation: landscape) {
+    .fullwidth-slideshow-pager-wrap{
+        display: none;
+    }
+
+    .owl-prev, .owl-next{
+        opacity: 1;
+    }
+
+}
+
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 479px) and (orientation: portrait) {
+   #contact-header{
+        background-size: 260% !important;
+    }
+    
+}
+
+
+    
